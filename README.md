@@ -1,6 +1,6 @@
-# JSON to SHA-256 Hash Calculator
+# JSON to HMAC SHA-256 Hash Calculator
 
-Simple [Electron](http://electron.atom.io) application that converts json's sha256 hash along with integrity salt.
+Simple [Electron](http://electron.atom.io) application that converts json's HMAC SHA256 hash along with integrity salt.
 
 ![screenshot](screenshot.PNG)
 
