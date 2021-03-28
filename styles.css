@@ -17,3 +17,13 @@ html, body, .container-fluid {
   color: #575B5E;
   font-weight: normal;
 }
+
+#integrityText{
+  width: 60%;
+  margin: 0;
+  display: inline;
+}
+
+#jsonSubmit{
+  float: right;
+}
